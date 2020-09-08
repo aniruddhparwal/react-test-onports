@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-test-onports/static/css/main.7cb3a40e.chunk.css",
+    "main.js": "/react-test-onports/static/js/main.353712b1.chunk.js",
+    "main.js.map": "/react-test-onports/static/js/main.353712b1.chunk.js.map",
+    "runtime-main.js": "/react-test-onports/static/js/runtime-main.be786b0c.js",
+    "runtime-main.js.map": "/react-test-onports/static/js/runtime-main.be786b0c.js.map",
+    "static/js/2.02f876d3.chunk.js": "/react-test-onports/static/js/2.02f876d3.chunk.js",
+    "static/js/2.02f876d3.chunk.js.map": "/react-test-onports/static/js/2.02f876d3.chunk.js.map",
+    "index.html": "/react-test-onports/index.html",
+    "precache-manifest.6d922de74d408c7bde9584b44f9e2e62.js": "/react-test-onports/precache-manifest.6d922de74d408c7bde9584b44f9e2e62.js",
+    "service-worker.js": "/react-test-onports/service-worker.js",
+    "static/css/main.7cb3a40e.chunk.css.map": "/react-test-onports/static/css/main.7cb3a40e.chunk.css.map",
+    "static/js/2.02f876d3.chunk.js.LICENSE.txt": "/react-test-onports/static/js/2.02f876d3.chunk.js.LICENSE.txt",
+    "static/media/history.png": "/react-test-onports/static/media/history.7db5c824.png",
+    "static/media/settings.png": "/react-test-onports/static/media/settings.9869754f.png",
+    "static/media/shop.png": "/react-test-onports/static/media/shop.762919f3.png",
+    "static/media/user.png": "/react-test-onports/static/media/user.7279bc42.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be786b0c.js",
+    "static/js/2.02f876d3.chunk.js",
+    "static/css/main.7cb3a40e.chunk.css",
+    "static/js/main.353712b1.chunk.js"
+  ]
+}
