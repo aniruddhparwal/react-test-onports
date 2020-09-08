@@ -1,0 +1,49 @@
+.clientTableEntry{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+    img{
+        background-blend-mode: normal;
+        height: 25px;
+        width: 25px;
+        border-radius: 50%;
+    }
+}
+
+.clientTableEntry__name ,.clientTableEntry__billing{
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.clientTableEntry__seviceStatus ,.clientTableEntry__paid{
+
+    height: 26px;
+    width: 96px;
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFFFFF;
+}
+
+
+
+.red{
+    background: #D72E3D;
+    border-radius: 4px;
+}
+
+.green{
+    background: #249D3D;
+    border-radius: 4px;
+}

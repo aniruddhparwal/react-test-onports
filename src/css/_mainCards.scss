@@ -1,0 +1,64 @@
+.mainCards{
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.25);
+    height: 136px;
+    width: 303px;
+    margin-top: 23px;
+    margin-left: -15px ;
+}
+
+.mainCards__info{
+    padding-top: 23px;
+    padding-right: 25px;
+    padding-left: 10px;
+}
+.mainCards__title{
+    position: relative;
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+
+.mainCards_details{
+    display: flex;
+    justify-content: space-between ;
+    margin-top: 36px;
+}
+
+.mainCards__value{
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;    
+}
+
+.mainCards__progressBar{
+    width: 179px;
+    height: 7px;
+    margin-top:12px;
+    background: #C4C4C4;
+    border-radius: 5px;
+}
+
+.mainCards__progressBarActive{
+    width: 124px;
+    height: 7px;
+
+    background: #20CFD2;
+    border-radius: 5px;
+}
+.textpink{
+    color: #DE2464;
+}
+.textblue{
+    color: #20CFD2;
+}
+.textlightGreen{
+    color: #07E26B;
+}

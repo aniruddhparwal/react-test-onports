@@ -1,0 +1,37 @@
+.sideNav{
+    width: 300px;
+    height: 1024px;
+    left: 0px;
+    top: -5px;    
+    background: #18243A;
+    img{
+        height: 25px;
+        width:25px;
+        margin-left:20px ;
+        margin-top:20px;
+    }
+}
+
+.sideNav__title{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 26px;    
+    color: #FFFFFF;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left:10px;
+    margin-top:20px;
+
+}
+
+.sideNav__entry{
+    margin-top: 50px;
+    height: 60px;
+}
+
+.active{
+    background: #DE2464;
+
+}
