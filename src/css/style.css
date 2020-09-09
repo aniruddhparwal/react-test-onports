@@ -19,11 +19,11 @@
 .header {
   position: -webkit-sticky;
   position: sticky;
-  width: 100vw;
+  width: 150%;
   height: 68px;
   left: 0px;
   top: 0px;
-  background: #F7F8FA;
+  background: #f7f8fa;
   -webkit-box-shadow: 0px 2px 19px rgba(0, 0, 0, 0.25);
           box-shadow: 0px 2px 19px rgba(0, 0, 0, 0.25);
   z-index: 100;
@@ -40,6 +40,7 @@
 .mainContainer {
   margin-left: 40px;
   margin-top: 40px;
+  width: 100%;
 }
 
 .mainContainer .titleText {
@@ -168,11 +169,20 @@
   height: 622px;
   left: 372px;
   top: 361px;
-  background: #FFFFFF;
+  background: #ffffff;
   -webkit-box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.25);
           box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.25);
   padding-left: 14px;
   padding-right: 14px;
+  overflow: scroll;
+  margin-bottom: 30px;
+}
+
+.clientList__titleBar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  background: white;
 }
 
 .clientList__heading {
@@ -187,7 +197,7 @@
 }
 
 .clientList hr {
-  border: 1px solid #CACACA;
+  border: 1px solid #cacaca;
 }
 
 .clientList__tableHead {
@@ -217,7 +227,7 @@
   height: 123px;
   left: 1051px;
   top: 361px;
-  background: #FFFFFF;
+  background: #ffffff;
   margin-bottom: 33px;
   -webkit-box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.25);
           box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.25);
@@ -269,7 +279,7 @@
   width: 179px;
   height: 7px;
   margin-top: 31px;
-  background: #C4C4C4;
+  background: #c4c4c4;
   border-radius: 5px;
 }
 
@@ -280,19 +290,19 @@
 }
 
 .blue {
-  background: #20CFD2;
+  background: #20cfd2;
 }
 
 .lightGreen {
-  background: #07E26B;
+  background: #07e26b;
 }
 
 .pink {
-  background: #DE2464;
+  background: #de2464;
 }
 
 .purple {
-  background: #A181E0;
+  background: #a181e0;
 }
 
 .clientTableEntry {

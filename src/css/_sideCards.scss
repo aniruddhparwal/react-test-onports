@@ -1,74 +1,75 @@
-.sideCards{
-    width: 368px;
-    height: 123px;
-    left: 1051px;
-    top: 361px;
-    
-    background: #FFFFFF;
-    margin-bottom: 33px;
-    box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.25);
+.sideCards {
+  //   width: 18vh;
+  width: 368px;
+  height: 123px;
+  left: 1051px;
+  top: 361px;
+
+  background: #ffffff;
+  margin-bottom: 33px;
+  box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.25);
 }
 
-.sideCards__details{
-    display: flex;
-    justify-content: space-between ;
+.sideCards__details {
+  display: flex;
+  justify-content: space-between;
 }
-.sideCards__comment{
-    font-family: Roboto Condensed;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 12px;
-    line-height: 14px;
-    color: #525252;
-}
-
-.sideCards__title{
-    font-family: Roboto Condensed;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
-    line-height: 23px;    
-    color: #000000;
-}
-.sideCards__value{
-    font-family: Roboto Condensed;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 19px;
-    color: #000000;
+.sideCards__comment {
+  font-family: Roboto Condensed;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #525252;
 }
 
-.sideCards__info{
-    padding-top: 23px;
-    padding-right: 35px;
-    padding-left: 31px;
+.sideCards__title {
+  font-family: Roboto Condensed;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.sideCards__value {
+  font-family: Roboto Condensed;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
 }
 
-.sideCards__progressBar{
-    width: 179px;
-    height: 7px;
-    margin-top:31px;
-    background: #C4C4C4;
-    border-radius: 5px;
+.sideCards__info {
+  padding-top: 23px;
+  padding-right: 35px;
+  padding-left: 31px;
 }
 
-.sideCards__progressBarActive{
-    width: 124px;
-    height: 7px;
-    border-radius: 5px;
+.sideCards__progressBar {
+  width: 179px;
+  height: 7px;
+  margin-top: 31px;
+  background: #c4c4c4;
+  border-radius: 5px;
 }
 
-.blue{
-    background: #20CFD2;
+.sideCards__progressBarActive {
+  width: 124px;
+  height: 7px;
+  border-radius: 5px;
 }
 
-.lightGreen{
-    background: #07E26B;
+.blue {
+  background: #20cfd2;
 }
-.pink{
-    background: #DE2464;
+
+.lightGreen {
+  background: #07e26b;
 }
-.purple{
-    background: #A181E0;
+.pink {
+  background: #de2464;
+}
+.purple {
+  background: #a181e0;
 }
