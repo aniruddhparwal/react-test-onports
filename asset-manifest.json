@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-test-onports/static/css/main.07236670.chunk.css",
-    "main.js": "/react-test-onports/static/js/main.2f6b154d.chunk.js",
-    "main.js.map": "/react-test-onports/static/js/main.2f6b154d.chunk.js.map",
+    "main.css": "/react-test-onports/static/css/main.24c8b47a.chunk.css",
+    "main.js": "/react-test-onports/static/js/main.a43dc1e2.chunk.js",
+    "main.js.map": "/react-test-onports/static/js/main.a43dc1e2.chunk.js.map",
     "runtime-main.js": "/react-test-onports/static/js/runtime-main.be786b0c.js",
     "runtime-main.js.map": "/react-test-onports/static/js/runtime-main.be786b0c.js.map",
-    "static/js/2.02f876d3.chunk.js": "/react-test-onports/static/js/2.02f876d3.chunk.js",
-    "static/js/2.02f876d3.chunk.js.map": "/react-test-onports/static/js/2.02f876d3.chunk.js.map",
+    "static/js/2.3098e719.chunk.js": "/react-test-onports/static/js/2.3098e719.chunk.js",
+    "static/js/2.3098e719.chunk.js.map": "/react-test-onports/static/js/2.3098e719.chunk.js.map",
     "index.html": "/react-test-onports/index.html",
-    "precache-manifest.6ac3c25ed4d7bacfaf1bc73a7e82fb68.js": "/react-test-onports/precache-manifest.6ac3c25ed4d7bacfaf1bc73a7e82fb68.js",
+    "precache-manifest.4ee65b8da3c9e85dd44a2e325df44d1e.js": "/react-test-onports/precache-manifest.4ee65b8da3c9e85dd44a2e325df44d1e.js",
     "service-worker.js": "/react-test-onports/service-worker.js",
-    "static/css/main.07236670.chunk.css.map": "/react-test-onports/static/css/main.07236670.chunk.css.map",
-    "static/js/2.02f876d3.chunk.js.LICENSE.txt": "/react-test-onports/static/js/2.02f876d3.chunk.js.LICENSE.txt",
+    "static/css/main.24c8b47a.chunk.css.map": "/react-test-onports/static/css/main.24c8b47a.chunk.css.map",
+    "static/js/2.3098e719.chunk.js.LICENSE.txt": "/react-test-onports/static/js/2.3098e719.chunk.js.LICENSE.txt",
     "static/media/history.png": "/react-test-onports/static/media/history.7db5c824.png",
     "static/media/settings.png": "/react-test-onports/static/media/settings.9869754f.png",
     "static/media/shop.png": "/react-test-onports/static/media/shop.762919f3.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.be786b0c.js",
-    "static/js/2.02f876d3.chunk.js",
-    "static/css/main.07236670.chunk.css",
-    "static/js/main.2f6b154d.chunk.js"
+    "static/js/2.3098e719.chunk.js",
+    "static/css/main.24c8b47a.chunk.css",
+    "static/js/main.a43dc1e2.chunk.js"
   ]
 }
