@@ -1,14 +1,26 @@
-import React from 'react'
+import React, { useState } from 'react'
 import dashboard from "./../images/dashboard.png"
 import shops from "./../images/shop.png"
 import settings from "./../images/settings.png"
 import user from "./../images/user.png"
 import account from "./../images/account.png"
 import history from "./../images/history.png"
+import menu from "./../images/open-menu.png"
+
 
 function SideNav() {
+
+    const [nav, setNav] = useState(false)
+
+    const navToggle = () => {
+        setNav(!nav)
+    }
+
+
     return (
-        <div className="sideNav">
+        <div className={`${(nav) ? "sideNav" : "notActive"}`} >
+            <img onClick={navToggle} src={menu} alt="" style={{ marginTop: "25px", top: "0px" }} />
+
             <div className="sideNav__entry active">
                 <img src={dashboard} alt="" />
                 <span className="sideNav__title ">Dashboard</span>
@@ -33,7 +45,7 @@ function SideNav() {
                 <img src={history} alt="" />
                 <span className="sideNav__title">History</span>
             </div>
-        </div>
+        </div >
     )
 }
 
